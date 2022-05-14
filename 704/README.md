@@ -31,5 +31,5 @@
 注意开闭区间
 
 1. `[left, right]`右闭区间，则在更新`left`值为`mid - 1`，更新`right`值时同理，需要加1。
-2. `[left, right)`右开区间，则更新`left`或者`right`值时直接为`mid`saf是否会.
+2. `[left, right)`右开区间，则更新`left`或者`right`值时直接为`mid`。
 
