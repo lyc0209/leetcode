@@ -1,1 +1,1 @@
-require("./206/index")
+require("./24/index")
