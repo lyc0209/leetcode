@@ -1,4 +1,4 @@
-FROM FROM node:22
+FROM node:22
 
 SHELL ["/bin/bash", "-c"]
 
