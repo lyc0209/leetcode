@@ -8,6 +8,6 @@
   "extensions": [
     "dbaeumer.vscode-eslint"
   ],
-  "postCreateCommand": ""
+  "postCreateCommand": "git config --global --add safe.directory /IdeaProjects/leetcode"
 }
 
